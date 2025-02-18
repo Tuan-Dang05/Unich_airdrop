@@ -1,0 +1,10 @@
+{
+    "waitTime": 10000,
+    "numberThread": 1,
+    "autoMining": false,
+    "autoTasks": false,
+    "autoReg": true,
+    "checkToken": false,
+    "refCode": "HRTBV9",
+    "CAPMONSTER_API_KEY": "your_api_key"
+}

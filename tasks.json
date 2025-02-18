@@ -1,0 +1,134 @@
+{
+    "code": "OK",
+    "message": null,
+    "data": {
+        "items": [
+            {
+                "type": "TWITTER",
+                "title": "Follow Unich on X",
+                "pointReward": 60,
+                "link": "https://x.com/unich_com",
+                "claimed": false,
+                "id": "66c7054a50155435d01c4b80",
+                "social": "TWITTER"
+            },
+            {
+                "type": "DISCORD",
+                "title": "Join Unich Discord",
+                "pointReward": 60,
+                "link": "https://discord.com/invite/wEes8pjXAj",
+                "claimed": false,
+                "id": "66c705cd50155435d01c4ba5",
+                "social": "DISCORD"
+            },
+            {
+                "type": "TELEGRAM",
+                "title": "Join Unich Telegram Channel",
+                "pointReward": 60,
+                "link": "https://t.me/Unichcom",
+                "claimed": false,
+                "id": "66c705e450155435d01c4bab",
+                "social": "TELEGRAM"
+            },
+            {
+                "type": "TELEGRAM_GROUP",
+                "title": "Join Unich Telegram Group",
+                "pointReward": 60,
+                "link": "https://t.me/unich_com",
+                "claimed": false,
+                "id": "66c705f350155435d01c4bb2",
+                "social": "TELEGRAM"
+            },
+            {
+                "type": "INSTAGRAM",
+                "title": "Follow Unich Instagram",
+                "pointReward": 60,
+                "link": "https://www.instagram.com/unich_com/",
+                "claimed": false,
+                "id": "66c7094950155435d01c4bc3",
+                "social": "INSTAGRAM"
+            },
+            {
+                "type": "YOUTUBE",
+                "title": "Subscribe Unich Youtube",
+                "pointReward": 60,
+                "link": "https://www.youtube.com/@Unichcom",
+                "claimed": false,
+                "id": "66c7096250155435d01c4bcd",
+                "social": "YOUTUBE"
+            },
+            {
+                "type": "TWITTER.UNICH_WALLET",
+                "title": "Follow Unich Wallet on X",
+                "pointReward": 60,
+                "link": "https://x.com/UnichWallet",
+                "claimed": false,
+                "id": "66e2725db598145b78c4e6b0",
+                "social": "TWITTER"
+            },
+            {
+                "type": "SHARE_POST",
+                "title": "Repost & Like Unich Tweet #1",
+                "pointReward": 40,
+                "link": "https://x.com/unich_com/status/1814228788835987795",
+                "claimed": false,
+                "id": "66c70ad450155435d01c4bd8",
+                "social": "TWITTER"
+            },
+            {
+                "type": "SHARE_POST",
+                "title": "Like Unich Video #1",
+                "pointReward": 40,
+                "link": "https://www.youtube.com/watch?v=ItytqaIwFpA",
+                "claimed": false,
+                "id": "66d13fc9bcdb0182deb370b5",
+                "social": "YOUTUBE"
+            },
+            {
+                "type": "SHARE_POST",
+                "title": "Join Unich Facebook",
+                "pointReward": 60,
+                "link": "https://www.facebook.com/Unich.official",
+                "claimed": false,
+                "id": "674fd08ef10a765092881c90",
+                "social": "FACEBOOK"
+            },
+            {
+                "type": "SHARE_POST",
+                "title": "Repost and Like Unich Tweet #181",
+                "pointReward": 40,
+                "link": "https://x.com/unich_com/status/1886964781300822354",
+                "claimed": false,
+                "id": "67a2cd875b21e597212c51f1",
+                "social": "TWITTER"
+            },
+            {
+                "type": "SHARE_POST",
+                "title": "Repost and Like Unich Tweet #188",
+                "pointReward": 40,
+                "link": "https://x.com/unich_com/status/1888880129948123357",
+                "claimed": false,
+                "id": "67a9cce9818d45aa231ee06d",
+                "social": "TWITTER"
+            },
+            {
+                "type": "SHARE_POST",
+                "title": "Repost and Like Unich Tweet #197",
+                "pointReward": 40,
+                "link": "https://x.com/unich_com/status/1890969369158553858",
+                "claimed": false,
+                "id": "67b16a0f818d45aa231efaf3",
+                "social": "TWITTER"
+            },
+            {
+                "type": "SHARE_POST",
+                "title": "Repost and Like Unich Tweet #198",
+                "pointReward": 40,
+                "link": "https://x.com/unich_com/status/1891336907248001367",
+                "claimed": false,
+                "id": "67b2b61a818d45aa231efda5",
+                "social": "TWITTER"
+            }
+        ]
+    }
+}

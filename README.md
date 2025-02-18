@@ -48,7 +48,7 @@
 #### 🔹 Bước 3: Cài đặt và chạy Tool
 ```sh
 # Clone repo về máy
-git clone https://github.com/yourrepo/unich_airdrop.git
+git clone https://github.com/Tuan-Dang05/Unich_airdrop.git
 
 # Di chuyển vào thư mục
 cd unich_airdrop

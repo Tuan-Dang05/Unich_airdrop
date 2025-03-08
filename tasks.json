@@ -3,6 +3,15 @@
     "message": null,
     "data": {
         "items": [
+              {
+                "type": "SHARE_POST",
+                "title": "Repost and Like Unich Tweet #226",
+                "pointReward": 40,
+                "link": "https://x.com/RuggedRaven/status/1897950695346913435",
+                "claimed": false,
+                "id": "67cad7995078919f6dd3bc49",
+                "social": "TWITTER"
+            },
             {
                 "type": "TWITTER",
                 "title": "Follow Unich on X",
@@ -102,24 +111,7 @@
                 "id": "67a2cd875b21e597212c51f1",
                 "social": "TWITTER"
             },
-            {
-                "type": "SHARE_POST",
-                "title": "Repost and Like Unich Tweet #210",
-                "pointReward": 40,
-                "link": "https://x.com/unich_com/status/1893982668481843268",
-                "claimed": false,
-                "id": "67bc6407818d45aa231f2089",
-                "social": "TWITTER"
-            },
-            {
-                "type": "SHARE_POST",
-                "title": "Repost and Like Unich Tweet #211",
-                "pointReward": 40,
-                "link": "https://x.com/unich_com/status/1894318463377969584",
-                "claimed": false,
-                "id": "67bd9020818d45aa231f2468",
-                "social": "TWITTER"
-            },
+    
               {
                 "type": "SHARE_POST",
                 "title": "Repost and Like Unich Tweet #218",

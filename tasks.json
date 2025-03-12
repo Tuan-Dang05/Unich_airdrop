@@ -138,7 +138,25 @@
                 "claimed": false,
                 "id": "67ca647f5078919f6dd3b941",
                 "social": "TWITTER"
-            }
+            },
+             {
+                "type": "SHARE_POST",
+                "title": "Repost and Like Unich Tweet #228",
+                "pointReward": 40,
+                "link": "https://x.com/unich_com/status/1898673024725135761",
+                "claimed": false,
+                "id": "67cd68645078919f6dd3c25e",
+                "social": "TWITTER"
+            },
+            {
+                "type": "SHARE_POST",
+                "title": "Comment 'GMUnich' and Like Unich Tweet #231",
+                "pointReward": 40,
+                "link": "https://x.com/unich_com/status/1899653411609743755",
+                "claimed": false,
+                "id": "67d0f83c4e6870b51e5f22e9",
+                "social": "TWITTER"
+            },
         ]
     }
 }
